@@ -69,3 +69,70 @@ jupyter notebook EV_Adoption_Forecasting.ipynb
 
 4. Follow the notebook cells sequentially to understand the analysis process and results.
 #
+
+# Week 2:
+
+## Theory and Concepts
+
+### Data Type Handling
+
+1. **Numeric Conversion**
+
+   - Converting string data to numeric types
+   - Handling mixed data types
+   - Managing conversion errors using error handlers
+
+2. **Date-Time Processing**
+   - Converting string dates to datetime objects
+   - Extracting temporal features (year, month)
+   - Creating time-based aggregations
+
+### Feature Engineering
+
+1. **Lag Features**
+
+   - Creating time-shifted versions of variables
+   - Rolling means and averages
+   - Percentage change calculations
+   - Growth slope computation
+
+2. **Temporal Features**
+   - Months since start calculation
+   - Cumulative sums and rolling metrics
+   - Trend and seasonality extraction
+
+### Model Selection and Evaluation
+
+1. **Random Forest Regression**
+
+   - Ensemble learning principles
+   - Decision tree fundamentals
+   - Feature importance analysis
+   - Hyperparameter tuning concepts
+
+2. **Time Series Concepts**
+
+   - Temporal dependency
+   - Seasonality patterns
+   - Trend analysis
+   - Forecasting principles
+
+3. **Performance Metrics**
+   - Mean Absolute Error (MAE)
+   - Root Mean Square Error (RMSE)
+   - R-squared (R²) interpretation
+   - Model validation techniques
+
+### Visualization and Analysis
+
+1. **Time Series Plotting**
+
+   - Historical vs forecast visualization
+   - Trend line plotting
+   - Cumulative growth charts
+
+2. **Model Insights**
+   - Feature importance visualization
+   - Prediction vs actual comparisons
+   - County-wise growth patterns
+   - Regional adoption trends

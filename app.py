@@ -269,15 +269,15 @@ with st.sidebar:
         <div style='margin-top: 2rem; padding: 1rem; background: rgba(255, 255, 255, 0.05); border-radius: 10px;'>
             <h4 style='color: #00ff88; margin: 0 0 0.5rem 0;'>🔗 Let's Connect</h4>
             <div style='margin: 0.8rem 0;'>
-                <a href="https://www.linkedin.com/in/oceaneyes/" target="_blank" style='color: #00ff88; text-decoration: none; margin-right: 1rem;'>
+                <a href="https://www.linkedin.com/in/atisha04/" target="_blank" style='color: #00ff88; text-decoration: none; margin-right: 1rem;'>
                     💼 LinkedIn
                 </a>
-                <a href="https://github.com/Pabitra-Sahoo" target="_blank" style='color: #00ff88; text-decoration: none; margin-right: 1rem;'>
+                <a href="https://github.com/Atisha-Priyadarshani" target="_blank" style='color: #00ff88; text-decoration: none; margin-right: 1rem;'>
                     <br>👨‍💻 GitHub
                 </a>
             </div>
             <div style='margin: 0.8rem 0;'>
-                <a href="https://github.com/Pabitra-Sahoo/EV-Adoption-Forecasting-AICTE" target="_blank" style='color: #4ecdc4; text-decoration: none;'>
+                <a href="https://github.com/Atisha-Priyadarshani/EV-Adoption-Forecasting-Edunet" target="_blank" style='color: #4ecdc4; text-decoration: none;'>
                     📂 Project Repository
                 </a>
             </div>
@@ -704,7 +704,7 @@ st.markdown("""
         </p>
         <div style='background: rgba(0, 255, 136, 0.1); padding: 1rem; border-radius: 10px; margin-top: 1.5rem;'>
             <p style='margin: 0; color: rgba(255, 255, 255, 0.9); font-weight: 600;'>
-                📚 Prepared for the <strong>AICTE Internship Cycle 2 by Pabitra Sahoo</strong>
+                📚 Prepared for the <strong>AICTE Internship Cycle 2 by Atisha Priyadarshani</strong>
             </p>
         </div>
     </div>
